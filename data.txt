@@ -1,30 +1,50 @@
 # Emails
+lama.loca.loca123@inca.com
+pio_pio@factory.com
+carnival666@hellmail.com
+la-lalai@gmail.com
+//INVALID EMAILS
+//spaces at start
+ testmail@mail.com
+//start with points
+.testmail@mail.com
+//finish with points
+testmail@mail.com.
+//spaces into the string
+testm ail@mail.com
+//Start/finish with any not number|letter char
+testmail@mail.com.de
+testmail@mail.de.org
 john.doe@example.com
 jane.doe@school.edu
 contact@company.biz
-user@例え.テスト
 info@sub.example.co
-user+tag@example.com
 longname@averylongdomainname.com
-user.name+tag+sorting@example.com
 user@example.museum
-customer/department=shipping@example.com
-mailbox@domain.co.uk
+mailbox@domain.co.u
 
 # Phones
++1 800 555 0123
++44 20 7946 0958
++49 30 123456
++81 3 1234 5678
 +33 6 12 34 56 78
-0612345678
-099-777-7777
-+1 099 777 7777
-+1 099 777 7777 ext 1234
-(099) 777-7777
-+44 (0) 20 7946 0958
-+49 (0) 170 1234567
-+81-90-1234-5678
+(123) 456-7890
 +55 11 91234-5678
 +86 139 1234 5678
-1234567890
-(123) 456-7890
+0612345678
++49 (0) 170 1234567
++1 (800) 555-0199
+123-456-7890
++1 234 567 8900 ext 1234
+(99) 1234-5678
++1 212-555-1234
+(555) 012-3456
++49 621 60-6641516
++33 1 23 45 67 89
++44 7911 123456
++1 403 555 0199
+
 
 # Dates
 23/08/2023
